@@ -4,7 +4,7 @@
 
 [![Coalescence demo: particles fly in and settle into the PBE mark](assets/demo.gif)](index.html)
 
-**This is Lesson 3 of 7, a taste of the full kit.** The full kit starts at Lesson 1: Lesson 3 assumes you have worked through Lessons 1 and 2 and have your Carry-Forward Sheet. **[Get all 7 lessons ($29) →](https://payhip.com/b/JiFkD)**
+**This is Lesson 3 of 7, a taste of the full kit.** The full kit starts at Lesson 1: Lesson 3 assumes you have worked through Lessons 1 and 2 and have your Carry-Forward Sheet. **[Get all 7 lessons →](https://payhip.com/b/JiFkD)**
 
 ---
 
@@ -46,7 +46,7 @@ This repo is Lesson 3 only. The kit is meant to be worked from Lesson 1, and lat
 6. **Your Own Ident** (capstone: your word, your colors)
 7. **Study the Masters**
 
-**[Get all 7 lessons on Payhip ($29) →](https://payhip.com/b/JiFkD)**
+**[Get all 7 lessons on Payhip →](https://payhip.com/b/JiFkD)**
 
 More from PBE Creative Ventures: <https://pbecreativeventures.com>
 
